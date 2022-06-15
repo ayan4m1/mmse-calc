@@ -1,22 +1,22 @@
 require('dotenv/config');
 
 module.exports = {
-  pathPrefix: '/rcmas-calc',
+  pathPrefix: '/mmse-calc',
   siteMetadata: {
-    title: 'rcmas-calc',
+    title: 'mmse-calc',
     author: {
       name: 'ayan4m1 <andrew@bulletlogic.com>'
     },
-    description: 'rcmas-calc',
-    siteUrl: 'https://ayan4m1.github.io/rcmas-calc/'
+    description: 'mmse-calc',
+    siteUrl: 'https://ayan4m1.github.io/mmse-calc/'
   },
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'RCMAS-2 Calc',
+        name: 'MMSE Calc',
         /* eslint-disable camelcase */
-        short_name: 'RCMAS-2',
+        short_name: 'MMSE',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#663399',

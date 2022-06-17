@@ -14,9 +14,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'MMSE Calc',
+        name: 'MMSE-2 Calc',
         /* eslint-disable camelcase */
-        short_name: 'MMSE',
+        short_name: 'MMSE-2',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#663399',

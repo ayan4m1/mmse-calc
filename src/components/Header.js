@@ -7,7 +7,7 @@ export default function Header() {
       <Container>
         <Navbar.Brand>
           <Nav.Item as={Link} to="/">
-            MMSE
+            MMSE-2
           </Nav.Item>
         </Navbar.Brand>
         <Navbar.Toggle />

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmmse_calc=self.webpackChunkmmse_calc||[]).push([[678],{6558:function(e,c,s){s.r(c),s.d(c,{default:function(){return a}});var l=s(3639),n=s(3448),r=s(3370),u=s(5893);function a(){return(0,u.jsxs)(n.Z,{children:[(0,u.jsx)(r.Z,{title:"Home"}),(0,u.jsx)("div",{className:"p-4 mb-4 bg-light rounded-3",children:(0,u.jsx)(l.Z,{fluid:!0,className:"py-4",children:(0,u.jsx)("h1",{children:"MMSE Calculator"})})})]})}}}]);
+//# sourceMappingURL=component---src-pages-index-js-78dc91d626cb6fa68c41.js.map

@@ -2,8 +2,8 @@ import { useCallback, useState } from 'react';
 import { Form, Button } from 'react-bootstrap';
 import { useFormik } from 'formik';
 
-import Layout from '~components/Layout';
-import { scoringData } from '~utils/scoring';
+import Layout from '../components/Layout';
+import { scoringData } from '../utils/scoring';
 
 export default function CalculatorPage() {
   const [tScore, setTScore] = useState(null);

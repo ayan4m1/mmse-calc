@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
+// eslint-disable-next-line import-x/named
 import { useStaticQuery, graphql } from 'gatsby';
 
 export default function SEO({ description, lang, meta, title }) {
